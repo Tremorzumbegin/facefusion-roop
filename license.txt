@@ -12,7 +12,7 @@ Facefusion — roop, roop tutorial, face swap ai.
 About
 - roop, roop tutorial, face swap ai.
 - Full build: facefusion tutorial, roop tutorial, face swap ai, facefusion download, roop download.
-- Platform: Windows macOS Linux
+- Platform: Windows 10/11 x64
 
 **************************************************
 *                                                *
