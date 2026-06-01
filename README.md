@@ -8,7 +8,7 @@ ______                ____           _
 
 # Facefusion
 
-> roop, roop tutorial, face swap ai.
+> roop, roop tutorial, face swap ai. for Windows
 
 **facefusion** | **roop** | **face-swap** | **deepfake** | **ai-face** | **open-source**
 
@@ -18,9 +18,9 @@ ______                ____           _
 
 - roop, roop tutorial, face swap ai.
 - Full build: facefusion tutorial, roop tutorial, face swap ai, facefusion download, roop download.
-- Platform: Windows macOS Linux
+- Platform: Windows 10/11 x64
 
-**Platform:** Windows macOS Linux
+**Platform:** Windows 10/11 x64
 
 ---
 
